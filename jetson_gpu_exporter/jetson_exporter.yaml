@@ -1,0 +1,4 @@
+tegrastats-interval: 1000
+tegrastats-log-file: /home/jetson/
+logfile-cleanup-interval-hours: 1
+jetson-bind-address: 0.0.0.0:9995
